@@ -1,5 +1,7 @@
 # docker-s3-sync
 
+Inspired by/based on kickstarter/docker-s3-sync
+
 A small docker image that will (periodically) sync an S3-bucket to a local directory.
 
 This can for instance be used as a sidekick-container with a shared filesystem to sync keys or configs.
